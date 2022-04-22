@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Aslan Aslanzada</h1>
 <h3 align="center">A passionate FullStack developer from Azerbaijan</h3>
+<img align="right" alt="Coding" width="400" src="file:///C:/Users/aslan/Desktop/github%20png2/index.gif>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aslancoder&label=Profile%20views&color=0e75b6&style=flat" alt="aslancoder" /> </p>
 
